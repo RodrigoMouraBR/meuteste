@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUjaYbnfQTX/nAwSW+UltOhwnyc7yq024pwDAnG3+SvAhbG0un6YedhCBnkn91xFqDXQ5tAyUjWqqpExfuXadg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\teste\\mourao\\Catalogo\\Catalogo.Application\\Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
